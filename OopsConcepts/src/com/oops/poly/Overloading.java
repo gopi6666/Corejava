@@ -17,6 +17,7 @@ public class Overloading {
 		
 		System.out.println(Overloading.add(10, 20));
 		System.out.println(Overloading.add(30, 40, 50));
+		System.out.println(Overloading.add(1, 2));
 	}
 	
 	
